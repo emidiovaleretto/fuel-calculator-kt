@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_950">#1D2C36</color>
+    <color name="primary_900">#253641</color>
+    <color name="primary_800">#2F4858</color>
+    <color name="primary_700">#006D7F</color>
+    <color name="primary_600">#0089A5</color>
+    <color name="primary_500">#00948A</color>
+    <color name="primary_400">#05B775</color>
+    <color name="primary_300">#00C853</color>
+    <color name="primary_200">#8ED548</color>
+    <color name="primary_100">#ffe501</color>
+    <color name="light_white">#D0CFCF</color>
+
+    <color name="dark_gray">#808080</color>
+</resources>

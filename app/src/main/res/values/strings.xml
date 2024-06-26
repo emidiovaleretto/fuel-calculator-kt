@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fuel Calculator</string>
+    <string name="heading_1">Curious about your travel costs?</string>
+    <string name="heading_2">Use our fuel calculator to get an estimate and enjoy a hassle-free trip!</string>
+    <string name="btn_action_txt">Get Started</string>
+    <string name="gas_pump">A gas pump image</string>
+    <string name="petrol">Petrol</string>
+    <string name="Ethanol">Ethanol</string>
+    <string name="diesel">Diesel</string>
+    <string name="greettings">Hi there!</string>
+    <string name="heading_3">Choose your fuel type</string>
+    <string name="icon_gas_station">Icon Gas Station</string>
+    <string name="hand_waving_icon">Hand waving icon</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="label_fuel_efficiency">Fuel Efficiency</string>
+    <string name="label_distance">Distance</string>
+    <string name="label_fuel_price">Fuel Price</string>
+    <string name="placeholder_fuel_efficiency">Enter how many kilometres per litre. E.g.: 12</string>
+    <string name="placeholder_distance">Enter the estimate distance. E.g.: 150</string>
+    <string name="placeholder_fuel_price">1.90</string>
+    <string name="fuel_pump_icon">Fuel pump icon</string>
+    <string name="error_invalid_input">"Required fields must be filled in"</string>
+    <string name="btn_start_over">Start Over</string>
+    <string name="summary">Summary</string>
+    <string name="label_fuel">Fuel</string>
+    <string name="label_estimate_km">Estimate KM</string>
+    <string name="label_efficiency">Efficiency</string>
+</resources>
