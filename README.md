@@ -18,7 +18,7 @@ This project is an Android native app developed in Kotlin, The Fuel Calculator a
 4. Fuel price entry:
    The fuel price is determined automatically based on the type of fuel selected. 💰⛽
 
-5. User-Friendly Interface: The app is designed with a clean and intuitive interface, making it easy for users to input their data and understand their BMI results.
+5. User-Friendly Interface: The app is designed with a clean and intuitive interface, making it easy for users to input their data and understand their Fuel efficiency results.
 
 ## Technical Details:
 
